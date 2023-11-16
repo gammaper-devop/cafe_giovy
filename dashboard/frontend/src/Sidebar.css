@@ -1,0 +1,10 @@
+.clase-principal {
+    textColor: #fff;
+    backgroundColor: #333;
+}
+
+.list-group a:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
