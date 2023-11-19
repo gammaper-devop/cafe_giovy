@@ -16,5 +16,6 @@ Para la creacion de la BD, se recomienda usar MongoDB - Compass.
 La base de datos se deberia llamar: 'bdcafe'. Si por alguna razon se cambiara el nombre de la base de datos, este nombre se tendria que cambiar en el archivo: 
 'dasboard/backend/src/base_datos/mongoDBConnection.js'
 
+En cualquier de los casos, se debera subir la informacion que esta en el archivo bdcafe.productos.json
 ## Todos los derechos reservados.
 
