@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "65287dcbac4f44be91262a72"
+  },
+  "descripcion": "Hot Capuccino",
+  "tipos": [
+    {
+      "nombre": "Pequeño",
+      "precio": 8.5,
+      "_id": {
+        "$oid": "652d66cffb2be62c8f7547da"
+      }
+    },
+    {
+      "nombre": "Mediano",
+      "precio": 9,
+      "_id": {
+        "$oid": "652d66cffb2be62c8f7547db"
+      }
+    },
+    {
+      "nombre": "Grande",
+      "precio": 11.2,
+      "_id": {
+        "$oid": "652d66cffb2be62c8f7547dc"
+      }
+    }
+  ],
+  "__v": 0,
+  "image": "src/img/menu-item-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65287e21ac4f44be91262a77"
+  },
+  "descripcion": "Hot Chocolate",
+  "tipos": [
+    {
+      "nombre": "Pequeño",
+      "precio": 9,
+      "_id": {
+        "$oid": "65287e21ac4f44be91262a78"
+      }
+    },
+    {
+      "nombre": "Mediano",
+      "precio": 10,
+      "_id": {
+        "$oid": "65287e21ac4f44be91262a79"
+      }
+    },
+    {
+      "nombre": "Grande",
+      "precio": 12,
+      "_id": {
+        "$oid": "65287e21ac4f44be91262a7a"
+      }
+    }
+  ],
+  "__v": 0,
+  "image": "src/img/menu-item-4.jpg"
+},
+{
+  "_id": {
+    "$oid": "6529ac8e7d43fcb8a1cab392"
+  },
+  "descripcion": "Hot Latte",
+  "tipos": [
+    {
+      "nombre": "Pequeño",
+      "precio": 10,
+      "_id": {
+        "$oid": "6529ac8e7d43fcb8a1cab393"
+      }
+    },
+    {
+      "nombre": "Mediano",
+      "precio": 13,
+      "_id": {
+        "$oid": "6529ac8e7d43fcb8a1cab394"
+      }
+    },
+    {
+      "nombre": "Grande",
+      "precio": 14,
+      "_id": {
+        "$oid": "6529ac8e7d43fcb8a1cab395"
+      }
+    }
+  ],
+  "__v": 0,
+  "image": "src/img/menu-item-3.jpg"
+},
+{
+  "_id": {
+    "$oid": "6529ad2f8d792c4ae973439d"
+  },
+  "descripcion": "Hot Espresso",
+  "tipos": [
+    {
+      "nombre": "Pequeño",
+      "precio": 9,
+      "_id": {
+        "$oid": "6529ad2f8d792c4ae973439e"
+      }
+    },
+    {
+      "nombre": "Mediano",
+      "precio": 10,
+      "_id": {
+        "$oid": "6529ad2f8d792c4ae973439f"
+      }
+    },
+    {
+      "nombre": "Grande",
+      "precio": "12"
+    }
+  ],
+  "__v": 0,
+  "image": "src/img/menu-item-2.jpg"
+},
+{
+  "_id": {
+    "$oid": "652da1fcaa286958dc54e74b"
+  },
+  "descripcion": "Iced Capuccino",
+  "tipos": [
+    {
+      "nombre": "Pequeño",
+      "precio": 11,
+      "_id": {
+        "$oid": "652da1fcaa286958dc54e74c"
+      }
+    },
+    {
+      "nombre": "Mediano",
+      "precio": 12,
+      "_id": {
+        "$oid": "652da1fcaa286958dc54e74d"
+      }
+    },
+    {
+      "nombre": "Grande",
+      "precio": 14,
+      "_id": {
+        "$oid": "652da1fcaa286958dc54e74e"
+      }
+    }
+  ],
+  "image": "src/img/menu-item-5.jpg",
+  "__v": 0
+}]
